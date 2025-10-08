@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "chacha20.h": "c",
+        "skinny128-cipher.h": "c",
+        "skinny64-cipher.h": "c"
+    }
+}

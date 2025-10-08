@@ -1,0 +1,1 @@
+chacha20, gift64, speck, elephant 160v1 encrypt.c, meu mano tiny_jambu tambem vamo caralho funcionando
